@@ -1,0 +1,23 @@
+{
+  "bitcoin": {
+    "address": "bc1q_replace_with_public_receiving_address",
+    "minConfirmations": 3,
+    "explorerBaseUrl": "https://mempool.space/api"
+  },
+  "evm": {
+    "chain": "ethereum",
+    "symbol": "ETH",
+    "address": "0x_replace_with_public_receiving_address",
+    "rpcUrlEnv": "EVM_RPC_URL",
+    "minConfirmations": 12
+  },
+  "erc20": {
+    "chain": "ethereum",
+    "symbol": "USDC",
+    "address": "0x_replace_with_public_receiving_address",
+    "contract": "0x_replace_with_verified_token_contract",
+    "decimals": 6,
+    "rpcUrlEnv": "EVM_RPC_URL",
+    "minConfirmations": 12
+  }
+}
