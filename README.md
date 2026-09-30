@@ -1,5 +1,8 @@
 # AI Money Game
 
+[![Powered by RustChain](https://img.shields.io/badge/Powered%20by-RustChain-orange)](https://rustchain.org)
+
+
 Experimental autonomous-agent economy with hard financial guardrails.
 
 ## Core agents
